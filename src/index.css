@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600;700;800&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.text-slate-600 {
+  color: #293845;
+}
+.btn-purple {
+  background-color: #6558f5;
+  color: #fff;
+}
+
+.btn-purple:hover {
+  background-color: #5143e6;
+  color: #fff;
+}
+
+.item-container {
+  color: #363f48;
+  border-radius: 8px;
+  border: solid 1px #36434e;
+  min-width: 350px;
+  max-width: 350px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
