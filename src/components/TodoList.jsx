@@ -25,7 +25,7 @@ function TodoList() {
             className="form-control"
             id="todoList"
             aria-describedby="emailHelp"
-            placeholder="What to do"
+            placeholder="Apa yang kamu lakukan"
             onChange={(e) => setTodo(e.target.value)}
             value={todo}
           />
